@@ -15,6 +15,10 @@
 		background: #fff;
 	}
 
+	.project-title{
+		color: #4acaa8;
+	}
+
 	body, input, select, textarea {
 		color: #888;
 		font-family: "Lato", sans-serif;
